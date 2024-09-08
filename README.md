@@ -1,2 +1,24 @@
-# gleam-wisp-pra
-gleam backend server practice repo
+# main
+
+[![Package Version](https://img.shields.io/hexpm/v/main)](https://hex.pm/packages/main)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/main/)
+
+```sh
+gleam add main@1
+```
+```gleam
+import main
+
+pub fn main() {
+  // TODO: An example of the project in use
+}
+```
+
+Further documentation can be found at <https://hexdocs.pm/main>.
+
+## Development
+
+```sh
+gleam run   # Run the project
+gleam test  # Run the tests
+```
